@@ -1,7 +1,4 @@
-import java.util.Stack;
-
 public class ValidParentheses {
-
     public boolean isValid(String s) {
         Stack<Character> parentheses = new Stack<Character>();
         char currChar, prevChar;
@@ -25,9 +22,4 @@ public class ValidParentheses {
 
         return parentheses.isEmpty();
     }
-
-    public static void main(String[] args) {
-        System.out.println(new ValidParentheses().isValid("{}[](()"));
-    }
-
 }

@@ -36,8 +36,4 @@ class RomanToInteger {
 
         return totalResult;
     }
-
-    public static void main(String[] args) {
-        new RomanToInteger().romanToInt("CMXCIV");
-    }
 }
