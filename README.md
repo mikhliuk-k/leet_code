@@ -1,4 +1,4 @@
-# Leet Code Solutions
+# LeetCode Solutions
 
 | Problem                                                                                                               | Difficulty | Solution                                          | Runtime | Memory   |
 |-----------------------------------------------------------------------------------------------------------------------|------------|---------------------------------------------------|---------|----------|
@@ -10,6 +10,7 @@
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                         | Hard       | [Rust](trapping_rain_water.rs)                    | 2 ms    | 2.1 MB   |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                           | Easy       | [Java](MergeSortedArray.java)                     | 0 ms    | 41.6 MB  |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                | Easy       | [Rust](best_time_to_buy_and_sell_stock.rs)        | 13 ms   | 2.9 MB   |
+| [189. Rotate Array](https://leetcode.com/problems/rotate-array)                                                       | Medium     | [C++](rotate_array.cpp)                           | 18 ms   | 27.3 MB  |
 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/)                                                            | Medium     | [Ruby](lru_cache.rb)                              | 382 ms  | 253.4 MB |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                            | Easy       | [Rust](fizz_buzz.rs)                              | 2 ms    | 2.7 MB   |
 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                     | Easy       | [Java](UniqueNumberOfOccurrences.java)            | 2ms     | 40.8 MB  |
